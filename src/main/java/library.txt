@@ -1,0 +1,4 @@
+ISSUE>title:В поисках новой земли>year:2017>number:10>carrier:e-item>JOURNAL>title:Вокруг света>subject:Путешествия>periodicity:monthly>
+ARTICLE>title:Неизведанный остров в тихом океане>author:Орналдо Вито>carrier:paper-item>ISSUE>title:На лодке в тихом океане>year:2015>number:1>ALMANAC>title:Кругосветный альманах>subject:Природа>periodicity:early>
+BOOK>title:Где-то на белом свете>author:Константин Симонов>pages:354>genre:Prose>type:paper-item>
+BOOK>title:Я еду на Байкал>author:Константин Богомазов>pages:3>genre:Adventure>type:paper-item>
